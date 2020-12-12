@@ -1,4 +1,4 @@
-<img src="./img/welcome_cats_undrawn.svg" min-width="400px" max-width="400px" width="400px"  alt="welcome-cats" align='left'>
+<img src="./img/profile-readme.svg" min-width="400px" max-width="400px" width="400px"  alt="welcome-cats" align='left'>
 <p align="center"> 
   <strong>About me?</strong> well, let's say when I was 13 I got really excited with microcontrollers. Maintenant, here I am.
 </p>

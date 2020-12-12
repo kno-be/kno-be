@@ -2,7 +2,7 @@
 <br />
 
 <p align="center"> 
-  <strong>About me?</strong> well, let's say when I was 13 I got really excited with microcontrollers. Maintenant, here I am.
+  <strong>About me?</strong> I like to sort things out on my own, knowing 'automation' is a currency that you invest and profit time, I've become a daytrader.
 </p>
 <p align="center">
  

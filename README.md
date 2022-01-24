@@ -8,7 +8,7 @@
  
 </p>
 <p align="center">
-  <strong>| CSS | JavaScript | Python |</strong>
+  <strong>| PHP | JavaScript | Python | C |</strong>
 </p> 
 <p align="right">
 <strong></strong>

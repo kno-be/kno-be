@@ -1,4 +1,4 @@
-<p min-width="400px" max-width="400px" width="450px"  alt="welcome-cats" align='left'>
+<p min-width="400px" max-width="20rem" alt="welcome-cats" align='left'>
  ▄▄▄▄   ▓█████  ██▀███   ██░ ██  ▄▄▄       ██▀███  ▄▄▄█████▓
 ▓█████▄ ▓█   ▀ ▓██ ▒ ██▒▓██░ ██▒▒████▄    ▓██ ▒ ██▒▓  ██▒ ▓▒
 ▒██▒ ▄██▒███   ▓██ ░▄█ ▒▒██▀▀██░▒██  ▀█▄  ▓██ ░▄█ ▒▒ ▓██░ ▒░

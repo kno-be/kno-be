@@ -1,32 +1,3 @@
-<p min-width="400px" max-width="20rem" alt="welcome-cats" align='left'>
- ▄▄▄▄   ▓█████  ██▀███   ██░ ██  ▄▄▄       ██▀███  ▄▄▄█████▓
-▓█████▄ ▓█   ▀ ▓██ ▒ ██▒▓██░ ██▒▒████▄    ▓██ ▒ ██▒▓  ██▒ ▓▒
-▒██▒ ▄██▒███   ▓██ ░▄█ ▒▒██▀▀██░▒██  ▀█▄  ▓██ ░▄█ ▒▒ ▓██░ ▒░
-▒██░█▀  ▒▓█  ▄ ▒██▀▀█▄  ░▓█ ░██ ░██▄▄▄▄██ ▒██▀▀█▄  ░ ▓██▓ ░ 
-░▓█  ▀█▓░▒████▒░██▓ ▒██▒░▓█▒░██▓ ▓█   ▓██▒░██▓ ▒██▒  ▒██▒ ░ 
-░▒▓███▀▒░░ ▒░ ░░ ▒▓ ░▒▓░ ▒ ░░▒░▒ ▒▒   ▓▒█░░ ▒▓ ░▒▓░  ▒ ░░   
-▒░▒   ░  ░ ░  ░  ░▒ ░ ▒░ ▒ ░▒░ ░  ▒   ▒▒ ░  ░▒ ░ ▒░    ░    
- ░    ░    ░     ░░   ░  ░  ░░ ░  ░   ▒     ░░   ░   ░      
- ░         ░  ░   ░      ░  ░  ░      ░  ░   ░              
-      ░                                                       
-</p>
-<br />
-
-<p align="center"> 
-  <strong>About me?</strong> I like to sort things out on my own, knowing 'automation' is a currency that you invest and profit time, I've become a daytrader.
-</p>
-<p align="center">
- 
-</p>
-<p align="center">
-  <strong>| PHP | JavaScript | Python | C |</strong>
-</p> 
-<p align="right">
-<strong></strong>
-</p>
-
-
-
 <p align="center">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
